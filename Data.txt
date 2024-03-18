@@ -1,0 +1,5 @@
+# raw recipe data
+s3a://raw-recipes-clean-upgrad/RAW_recipes_cleaned.csv
+
+# raw ratings data
+s3a://raw-interactions-upgrad/RAW_interactions_cleaned.csv
